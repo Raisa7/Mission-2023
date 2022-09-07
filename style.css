@@ -1,0 +1,22 @@
+css rules{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 70px;
+}
+#mission{
+    color: darkblue;
+}
+section{
+    display: flex;
+    margin-bottom: 59px;
+}
+.determine{
+   width: 80%; 
+   padding-left: 7%;
+   padding-top: 5%;
+}
+.determine img{
+    width: 70%;
+    padding-bottom: 7%;
+}
