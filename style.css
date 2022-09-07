@@ -13,10 +13,35 @@ section{
 }
 .determine{
    width: 80%; 
-   padding-left: 7%;
-   padding-top: 5%;
+   padding-left: 10%;
+   padding-top: 6%;
 }
 .determine img{
     width: 70%;
-    padding-bottom: 7%;
+}
+p{
+    font-size: 20px;
+}
+a{
+    padding-left: 5%;
+    margin-top: 10%;
+    margin-bottom: 20%;
+    padding-bottom: 5%;
+}
+.destination{
+    margin: 50% 5%;
+    width: 150px;
+    text-decoration: none;
+    background-color: rgb(8, 8, 69);
+    margin: 0 10px;
+    padding: 1% 1%;
+    color: aliceblue;
+    margin-left: 10%;
+}
+  
+.explore{
+    font-size: 19px;
+    margin-left: 10%;
+    padding-bottom: 5%;
+    padding-top: 1%;
 }
