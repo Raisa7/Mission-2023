@@ -100,14 +100,15 @@ span{
     width: 35%;
     padding-left: 5%;
     padding-top: 5%;
+    padding-right: 6%;
 }
 .code img{
-    width: 50%;
-    margin-right: 10%;
-    margin-left: 15%;
+    width: 70%;
+    margin-left: 23%;
 }
 .code{
     width: 80%;
+    margin-right: 17%;
 }
 .limit{
     margin-top: 15%;
@@ -116,4 +117,36 @@ span{
     font-size: 50px;
     color: blue;
 }
+.global{
+    width: 80%;
+    margin-left: 8%;
+    margin-top: 10%;
+}
+.global img{
+    width: 50%;
+    margin-right: 8%;
+    margin-left: 8%;
+    margin-top: 2%;
+}
+.design{
+    padding-left: 3%;
+    padding-right: 3%;
+    margin-left: 13%;
+}
+#fine{
+    margin-left: 50%;
+}
+#final{
+    margin-left: 8%;
+}
+footer{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 15%;
+    border-radius: 2%;
+    background-color: rgb(131, 145, 196);
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+
 
