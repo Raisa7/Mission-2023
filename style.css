@@ -91,7 +91,29 @@ h2{
     font-size: 55px;
     text-align: center;
     color: black;
+    margin-top: 10%;
 }
 span{
     color: blue;
 }
+.mission img{
+    width: 35%;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+.code img{
+    width: 50%;
+    margin-right: 10%;
+    margin-left: 15%;
+}
+.code{
+    width: 80%;
+}
+.limit{
+    margin-top: 15%;
+}
+.tech{
+    font-size: 50px;
+    color: blue;
+}
+
